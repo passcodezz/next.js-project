@@ -1,0 +1,39 @@
+.container {
+  text-align: center;
+  padding: 10rem;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.details {
+  border: 1px solid #dbdbdb;
+  border-radius: 0.25rem;
+  padding: 2rem;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.label {
+  font-size: 1rem;
+  color: aliceblue;
+}
+
+.value {
+  font-size: 1rem;
+  margin: 0;
+  margin-left: 1rem;
+}
+
+.buttom {
+  background-color: aliceblue;
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  border-radius: 5px;
+}
